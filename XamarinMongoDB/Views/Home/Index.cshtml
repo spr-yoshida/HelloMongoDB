@@ -1,0 +1,25 @@
+﻿@model XamarinMongoDB.HomeIndexViewModel
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<table>
+	<tr>
+		<th></th>
+		<th>Name</th>
+		<th>Email</th>
+		<th>Age</th>
+	</tr>
+@foreach (XamarinMongoDB.Person item in Model.People){
+	<tr>
+		<td><a href=@("/Home/Detail?id=" + item.Id)>Details</a></td>
+		<td>@item.name</td>
+		<td>@item.email</td>
+		<td>@item.age</td>
+	</tr>
+}
+</table>

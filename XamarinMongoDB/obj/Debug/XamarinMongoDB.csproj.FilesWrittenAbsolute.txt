@@ -1,0 +1,15 @@
+/Users/spry/Projects/XamarinMongoDB/XamarinMongoDB/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/spry/Projects/XamarinMongoDB/XamarinMongoDB/bin/XamarinMongoDB.dll.mdb
+/Users/spry/Projects/XamarinMongoDB/XamarinMongoDB/bin/XamarinMongoDB.dll
+/Users/spry/Projects/XamarinMongoDB/XamarinMongoDB/obj/Debug/XamarinMongoDB.dll
+/Users/spry/Projects/XamarinMongoDB/XamarinMongoDB/obj/Debug/XamarinMongoDB.dll.mdb
+/Users/spry/Projects/XamarinMongoDB/XamarinMongoDB/bin/Microsoft.Web.Infrastructure.dll
+/Users/spry/Projects/XamarinMongoDB/XamarinMongoDB/bin/System.Web.Razor.dll
+/Users/spry/Projects/XamarinMongoDB/XamarinMongoDB/bin/System.Web.Helpers.dll
+/Users/spry/Projects/XamarinMongoDB/XamarinMongoDB/bin/System.Web.WebPages.dll
+/Users/spry/Projects/XamarinMongoDB/XamarinMongoDB/bin/System.Web.WebPages.Deployment.dll
+/Users/spry/Projects/XamarinMongoDB/XamarinMongoDB/bin/System.Web.WebPages.Razor.dll
+/Users/spry/Projects/XamarinMongoDB/XamarinMongoDB/bin/System.Web.Mvc.dll
+/Users/spry/Projects/XamarinMongoDB/XamarinMongoDB/bin/MongoDB.Bson.dll
+/Users/spry/Projects/XamarinMongoDB/XamarinMongoDB/bin/MongoDB.Driver.Core.dll
+/Users/spry/Projects/XamarinMongoDB/XamarinMongoDB/bin/MongoDB.Driver.dll
